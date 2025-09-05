@@ -7,10 +7,7 @@ This project implements a miniature shell (`myshell.c`) that executes basic Linu
 
 ## 📂 Project Contents
 
-- **`myshell.c`** – main source code of the custom shell.  
-- **`Makefile`** – build script for compiling the shell.  
-- **`README.md`** – project documentation.  
-
+- **`myshell.c`** – main source code of the custom shell.   
 ---
 
 ## ⚡ Quick Start
