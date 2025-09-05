@@ -17,17 +17,17 @@ This project implements a miniature shell (`myshell.c`) that executes basic Linu
 
 1. **Clone the repository**
    ```bash
-git clone https://github.com/<your-username>/custom-shell-c.git
-cd custom-shell-c
+   git clone https://github.com/<your-username>/custom-shell-c.git
+   cd custom-shell-c
 2. **Compile the program**
-  ```bash
-make
+   ```bash
+   make
 3. **Run the shell**
-The shell accepts optional directories where executables can be found. For example:
-```bash
-./myshell /bin /usr/bin /home/user/custom_bin
+      The shell accepts optional directories where executables can be found. For example:
+   ```bash
+   ./myshell /bin /usr/bin /home/user/custom_bin
 4. **Use the shell**
-Once running, you’ll see a prompt:$
+   Once running, you’ll see a prompt:$
 
 ## Features
 **Built-in Commands (implemented without exec)**
