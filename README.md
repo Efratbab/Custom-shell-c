@@ -18,7 +18,7 @@ This project implements a miniature shell (`myshell.c`) that executes basic Linu
    cd custom-shell-c
 2. **Compile the program**
    ```bash
-   make
+   gcc myshell.c -o myshell
 3. **Run the shell**
       The shell accepts optional directories where executables can be found. For example:
    ```bash
